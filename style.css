@@ -80,6 +80,18 @@ info1{
     
     border-bottom-left-radius: 70px;
 }
+.product__one{
+    display: flex;
+    justify-content: space-between;
+}
+.product__two{
+    display: flex;
+    justify-content: space-between;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+}
 
 /*button*/
 .continue{
