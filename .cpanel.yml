@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vogelainenjansam/public_html/htmlcss/0110
+    - /bin/cp -R * $DEPLOYPATH
+ 
