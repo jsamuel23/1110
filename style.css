@@ -1,0 +1,41 @@
+*{
+    box-sizing:border-box;
+}
+/*page*/
+
+.page{
+    position: absolute;
+    width:100%;
+    height:100vh;
+}
+
+/*header*/
+.head{
+    background-color: whitesmoke;
+    width: 100%;
+    color:black;
+}
+
+/*payment info*/
+.info{
+    background-color:cornflowerblue;
+    width:100%;
+    color:white;
+    margin-bottom: -20px;
+}
+
+/*product*/
+.product{
+    background-color: darkblue;
+    width:100%;
+    color:white;
+    margin-bottom: -50px;
+    z-index: 1;
+}
+
+/*button*/
+.continue{
+    background-color: blueviolet;
+    width:100%;
+    color:white;
+}
