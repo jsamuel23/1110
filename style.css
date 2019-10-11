@@ -41,15 +41,28 @@ body{
     background-color:cornflowerblue;
     width:100%;
     color:white;
-    padding:50px;
+    padding:70px;
     z-index: -2;
     margin-bottom: -70px;
     border-bottom-left-radius: 70px;
     
 
 }
-input:nth-child(4){
-    width:20px;
+info1{
+    display: block;
+}
+.info2{
+    display: block;
+    width:45px;
+}
+.info3{
+    display: block;
+    width:80px;
+}
+.info4{
+    display: block;
+    width:30px;
+}
 }
 .info label input{
     display:block;
